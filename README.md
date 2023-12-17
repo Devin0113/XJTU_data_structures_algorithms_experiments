@@ -34,12 +34,16 @@ This project is the final assignment for the "Data Structures and Algorithms Exp
 
 ## 3. Directory Structure:
 3.1. Program Main/Experiment: Includes all complete code, comments, and the executable file packaged with the program. It also includes the files processed according to the experiment requirements (requirements may vary for different major classes).
+
 3.2. Experiment Report: Contains a report with personal information omitted, provided only as a reference for classmates when writing reports.
+
 3.3. Flowcharts: Omitted; flowcharts can be found in the report.
+
 3.4. Run Results: Includes some screenshots during runtime for debugging reference.
 
 ## 4. Instructions for Use:
 4.1. This project is written using the Dev-C++ IDE. Opening the project with other IDEs may result in unexpected issues.
+
 4.2. This project is developed on the Windows 10 system. Using other systems may lead to exceptions (e.g., differences in newline characters between Linux and Windows systems; this project is only adapted for Windows systems).
 
 ## 5. Contribution Guidelines:
